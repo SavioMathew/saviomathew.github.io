@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Savio Mathew | Portfolio</title>
+</head>
+<body>
+  <h1>Hello, I'm Savio 👋</h1>
+  <p>This website is hosted using GitHub Pages.</p>
+  <p>Future DevOps portfolio in progress 🚀</p>
+</body>
+</html>
